@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HARUN YALÇIN
 - 👀 I’m interested in 2D and 3D game development with UNITY
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on game componies
+- 💞️ I’m looking to collaborate on game companies
 - 📫 How to reach me: yalcinharun14@gmail.com
 
 <!---
